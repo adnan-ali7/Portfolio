@@ -17,6 +17,7 @@ function Project() {
           <ProjectCard 
             title="Portfolio Website" 
             main="A personal portfolio site created using React JS and Tailwind CSS."
+            link="https://adnan-ali7.github.io/Portfolio/"
           />
           <ProjectCard 
             title="Coming Soon" 
