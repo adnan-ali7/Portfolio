@@ -11,17 +11,22 @@ function Project() {
         <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6'>
           <ProjectCard 
             title="City-Guide Website" 
-            main="This is a city guide website built with HTML5, CSS3, and JavaScript."
-            link=" https://adnan-ali7.github.io/City-Guide/"
+            main="Developed a responsive City Guide website for help People to Explore City Beautiful Places.
+                  Technologies Used: HTML, CSS, JavaScrip"
+            link="https://adnan-ali7.github.io/City-Guide/"
           />
           <ProjectCard 
             title="Portfolio Website" 
-            main="A personal portfolio site created using React JS and Tailwind CSS."
+            main="Developed a responsive Portfolio website for showing my Skills and my Projects.
+                  Technologies Used: React JS, Tailwind CSS"
             link="https://adnan-ali7.github.io/Portfolio/"
           />
           <ProjectCard 
-            title="Coming Soon" 
-            main="Coming Soon"
+            title="Restaurent App" 
+            main="Developed a responsive web application for managing restaurant reservations,
+                  menu display, and customer reviews.
+                  Technologies Used: HTML, CSS, JavaScript"
+            link=" https://adnan-ali7.github.io/Restaurent/"
           />
         </div>
       </div>
